@@ -1,0 +1,20 @@
+/* General Page Styling */
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: moccasin;
+  color: black;
+}
+
+/* Dark Mode */
+.dark-mode {
+  background-color: #121212;
+  color: white;
+}
+
+/* FAQ Section */
+.faq-answer {
+  display: none;
+  margin-top: 5px;
+  color: blue;
+}
